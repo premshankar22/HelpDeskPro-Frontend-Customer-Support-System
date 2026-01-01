@@ -1,0 +1,17 @@
+export const TICKETS = [
+  { id: "TCK-1001", subject: "Unable to login", status: "Open", priority: "High", updatedAt: "2024-01-15" },
+  { id: "TCK-1002", subject: "Payment not reflected", status: "In Progress", priority: "Medium", updatedAt: "2024-01-14" },
+  { id: "TCK-1003", subject: "Bug in dashboard", status: "Closed", priority: "Low", updatedAt: "2024-01-10" },
+  { id: "TCK-1004", subject: "Email not verified", status: "Open", priority: "Medium", updatedAt: "2024-01-09" },
+  { id: "TCK-1005", subject: "UI glitch on mobile", status: "Closed", priority: "Low", updatedAt: "2024-01-08" },
+  { id: "TCK-1006", subject: "Unable to login", status: "Open", priority: "High", updatedAt: "2024-01-15" },
+  { id: "TCK-1007", subject: "Payment not reflected", status: "In Progress", priority: "Medium", updatedAt: "2024-01-14" },
+  { id: "TCK-1008", subject: "Bug in dashboard", status: "Closed", priority: "Low", updatedAt: "2024-01-10" },
+  { id: "TCK-1009", subject: "Email not verified", status: "Open", priority: "Medium", updatedAt: "2024-01-09" },
+  { id: "TCK-1010", subject: "UI glitch on mobile", status: "Closed", priority: "Low", updatedAt: "2024-01-08" },
+  { id: "TCK-1011", subject: "Unable to login", status: "Open", priority: "High", updatedAt: "2024-01-15" },
+  { id: "TCK-1012", subject: "Payment not reflected", status: "In Progress", priority: "Medium", updatedAt: "2024-01-14" },
+  { id: "TCK-1013", subject: "Bug in dashboard", status: "Closed", priority: "Low", updatedAt: "2024-01-10" },
+  { id: "TCK-1014", subject: "Email not verified", status: "Open", priority: "Medium", updatedAt: "2024-01-09" },
+  { id: "TCK-1015", subject: "UI glitch on mobile", status: "Closed", priority: "Low", updatedAt: "2024-01-08" },
+];
