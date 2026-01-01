@@ -6,6 +6,31 @@ It simulates a real-world customer support / helpdesk platform similar to Zendes
 ⚠️ This is a frontend-only project.
 All authentication, tickets, chat flows, and APIs are mocked to demonstrate frontend logic and design patterns.
 
+
+## 🛠 Tech Stack
+
+**Frontend**
+- React
+- Material UI (MUI)
+- React Router DOM
+- Context API
+- Custom Hooks
+
+**State Management**
+- Context API
+- LocalStorage
+
+**UI & UX**
+- Material UI Components
+- Responsive Layouts
+- Enterprise Dashboard Design
+
+**Tooling**
+- JavaScript (ES6+)
+- npm
+- Git & GitHub
+
+
 🚀 Project Overview
 
 HelpDeskPro demonstrates how a professional support system works from the frontend perspective:
