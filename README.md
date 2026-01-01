@@ -31,6 +31,26 @@ All authentication, tickets, chat flows, and APIs are mocked to demonstrate fron
 - Git & GitHub
 
 
+
+
+
+*****************************************************************************************
+                                                                                        
+🔐 Demo Credentials                                                                    
+Admin                                                                                   
+Email: admin@supporthub.com                                                             
+Password: admin123                                                                      
+                                                                                        
+Customer                                                                                
+Email: customer@supporthub.com                                                          
+Password: customer123                                                                   
+                                                                                        
+*****************************************************************************************
+
+
+
+
+
 🚀 Project Overview
 
 HelpDeskPro demonstrates how a professional support system works from the frontend perspective:
@@ -419,18 +439,6 @@ Designed to reflect real SaaS helpdesk systems
 
 
 
-*****************************************************************************************
-                                                                                        *
-🔐 Demo Credentials                                                                    * 
-Admin                                                                                   *
-Email: admin@supporthub.com                                                             *
-Password: admin123                                                                      *
-                                                                                        *
-Customer                                                                                *
-Email: customer@supporthub.com                                                          *
-Password: customer123                                                                   *
-                                                                                        *
-*****************************************************************************************
 
 
 
